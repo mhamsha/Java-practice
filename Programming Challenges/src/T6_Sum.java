@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Sum {
+class T6_Sum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to our Calculator");
